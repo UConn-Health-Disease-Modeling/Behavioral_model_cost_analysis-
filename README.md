@@ -6,12 +6,12 @@ we used a compartmental model that has been studied  to assess the impact of vol
 ## Content
 The present repository contains
 ###  Codes
-- Contour_infocoverage_reactivity_prioritization.ipynb: Estimated the percentage change in cumulative incidence and total cost relative to baseline values 
+- Comprehensive_result_base_case2.ipynb: Contains health coutcome (cumulative incindence, treated, vaccination and tested)  and cost  results based on mandatory only and mandatory and voluntary care-seeking plicy.   
+- Contour2.ipynb: Estimated the percentage change in cumulative incidence and total cost relative to baseline values 
    across information coverage scenarios and varying levels of reactivity and prioritization by immune individuals.
-- Contour_response_vacc_test.ipynb: Variation in total cases, confirmed cases, and overall costs in response to changes in voluntary vaccination and testing uptake, compared to their respective values under mandatory only levels.
+- Contour_reactivity_impact.ipynb: Variation in total cases, confirmed cases, and overall costs in response to changes in voluntary vaccination and testing uptake, compared to their respective values under mandatory only levels.
   
-- Health_cost_output.ipynb: Contains two results- one, the health outcome result (cumulative incindence, treated, vaccination and tested) and Scond, costs (related to treatment, vaccination and testing)  based on the two intervention strategies (only mandatory
-  care-seeking and both mandatory and voluntary care seeking)
+
   
   
 ### Data
